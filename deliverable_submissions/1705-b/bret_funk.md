@@ -7,9 +7,14 @@ Students should clone their individual file and update them with gist links for 
 * Link to resume *(this can be an uploaded PDF or a link to your resume that's been created online)*: 
 https://docs.google.com/document/d/1HfHrh_W-J5bzW2qGyS0ZVfPHHgkVkSrhVT1qC7JZD-A/edit?usp=sharing
 * Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
+https://www.turing.io/alumni/bret-funk
 * Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
+https://gist.github.com/bretfunk/6b1340914abb1665269647b33ef5a20a
 * Link to Trello Board with companies that are being tracked: 
+https://trello.com/b/qFUN5ta2
 * Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+https://gist.github.com/bretfunk/2b17f7f5716385be93ec86612fddf868
+
 
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
