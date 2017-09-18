@@ -16,6 +16,7 @@ https://trello.com/b/qFUN5ta2
 https://gist.github.com/bretfunk/2b17f7f5716385be93ec86612fddf868
 
 
+
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
 https://gist.github.com/bretfunk/d46a3148699b1db4d256347260b0e849
